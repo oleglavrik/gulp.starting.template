@@ -1,0 +1,22 @@
+{
+  "name": "starting template",
+  "description": "for starting template",
+  "main": "index.js",
+  "authors": [
+    "oleh.lavryk"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/oleglavrik/gulp.starting.template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "v4.0.0-beta"
+  }
+}
